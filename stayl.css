@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(blue);
+}
+h1 {
+    color: aqua;
+    text-align: center;
+}
+ul {
+    background: linear-gradient(gold,Purple);
+    padding: 20px;
+}
+h2 {
+    color: azure;
+    text-align: center;
+}
+
+
+   
+
+a {
+    margin-left: 550px;
+    background: gold;
+    padding: 10px;
+    margin-top: 10px;
+    
+}
